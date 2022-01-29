@@ -1,0 +1,239 @@
+[
+  {
+    "id" : 1,
+    "Type":"Fashion",
+    "imgMain": "https://m.media-amazon.com/images/I/91vGfItZ6hL._AC_UX466_.jpg",
+    "pageUrl": "../part page/fashion.html",
+    "products": [
+          {
+            "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/M63H24W7JF0-L302-ALTGHOST?wid=1500&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+            "name": "CHECK PRINT SHIRT",
+            "price": 110
+          },
+          {
+            "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/FLGLO4FAL12-BEIBR?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+            "name": "GLORIA HIGH LOGO SNEAKER",
+            "price": 91
+          },
+          {
+            "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/HWVG6216060-TAN?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+            "name": "CATE RIGID BAG",
+            "price": 94.5
+          },
+          {
+            "imgUrl": "http://guesseu.scene7.com/is/image/GuessEU/WC0001FMSWC-G5?wid=520&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+            "name": "GUESS CONNECT WATCH",
+            "price": 438.9
+          },
+          {
+            "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/AW6308VIS03-SAP?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+            "name": "'70s RETRO GLAM KEFIAH",
+            "price": 20
+          },
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/91vGfItZ6hL._AC_UX466_.jpg",
+            "name": "Goodthreads Men's Heavyweight",
+            "price": 45.90
+          },
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/81pQER5F5gS._AC_UL320_.jpg",
+            "name": "Legendary Whitetails Men's",
+            "price": 79.99
+          },
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/A1PdgXK2eYL._AC_UL320_.jpg",
+            "name": "Wrangler Authentics Men's",
+            "price": 31.99
+          },
+          {
+            "imgUrl": "https://guesseu.scene7.com/is/image/GuessEU/HWVG6216060-TAN?wid=700&amp;fmt=jpeg&amp;qlt=80&amp;op_sharpen=0&amp;op_usm=1.0,1.0,5,0&amp;iccEmbed=0",
+            "name": "CATE RIGID BAG",
+            "price": 94.5
+          },
+          {
+            "imgUrl": "http://guesseu.scene7.com/is/image/GuessEU/WC0001FMSWC-G5?wid=520&fmt=jpeg&qlt=80&op_sharpen=0&op_usm=1.0,1.0,5,0&iccEmbed=0",
+            "name": "GUESS CONNECT WATCH",
+            "price": 438.9
+          }
+        ]
+  },
+  {
+    "id" : 2,
+    "Type":"Electronics",
+    "imgMain": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2020/May/Dashboard/Fuji_Dash_Electronics_1x._SY304_CB432774322_.jpg",
+    "pageUrl": "../part page/electronic.html",
+    "products": [
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/7120GgUKj3L._AC_UL320_.jpg",
+            "name": "Apple AirPods",
+            "price": 43
+          },
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/615YaAiA-ML._AC_UL320_.jpg",
+            "name": "Oculus Quest 2 ",
+            "price": 200
+          },
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/71gBY-gGBwL._AC_UL320_.jpg",
+            "name": "Roku Streaming Stick+",
+            "price": 122
+          },
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/71m03KItMZL._AC_UL320_.jpg",
+            "name": "Acer Nitro 5 AN515-55-53E5",
+            "price": 800
+          },
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/61DJRLNgyWL._AC_UL320_.jpg",
+            "name": "WYZE Cam v3 with Color",
+            "price": 40 
+          },
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/418lyviauoL._AC_UL320_.jpg",
+            "name": "Fitbit Versa 2 Health ",
+            "price": 129
+          },
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/61rWhfNegOL._AC_UL320_.jpg",
+            "name": "SanDisk 128GB Ultra MicroSDXC",
+            "price": 17.99
+          },
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/7133ChhszhL._AC_UL320_.jpg",
+            "name": "Gskyer Telescope, 70mm ",
+            "price": 100
+          },
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/51sCVB0IZDL._AC_UL320_.jpg",
+            "name": "Sony Noise Cancelling Headphones ",
+            "price": 99 
+          },
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/61drpi3cYUL._AC_UL320_.jpg",
+            "name": "Nintendo Switch Pro",
+            "price": 23 
+          }
+        ]
+  },
+  {
+    "id" : 3,
+    "Type":"Kids Games",
+    "imgMain": "https://m.media-amazon.com/images/I/61EzNxqPauL._AC_UL320_.jpg",
+    "pageUrl": "../part page/kids.html",
+    "products": [
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/81Jbw2+cJhL._AC_UL320_.jpg",
+            "name": "Osmo - Coding Starter Kit for iPad",
+            "price": 68
+          },
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/61o6FqJJPIL._AC_UL320_.jpg",
+            "name": "Aletis Marble Run Building Blocks",
+            "price": 39.8
+          },
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/71yuX9gAUXL._AC_UL320_.jpg",
+            "name": "Mega Bloks First Builders Big Building",
+            "price": 12.99
+          },
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/71tXHg5H-KL._AC_UL320_.jpg",
+            "name": "Melissa & Doug Wooden Building",
+            "price": 16.20
+          },
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/71HdMYjNabS._AC_UL320_.jpg",
+            "name": "Building Blocks for Kids Toddlers",
+            "price": 20
+          },
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/61izjYRA0FS._AC_UL320_.jpg",
+            "name": "Jasonwell STEM Toys Building Blocks ",
+            "price": 40
+          },
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/61EzNxqPauL._AC_UL320_.jpg",
+            "name": "Wooden Building Blocks Set",
+            "price": 46
+          },
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/71mfvuvLVgL._AC_UL320_.jpg",
+            "name": "Qman Programmable Building Block",
+            "price":50 
+          },
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/71wSYhGnfpL._AC_UL320_.jpg",
+            "name": "WANGE Building Block Toys",
+            "price": 59.99
+          },
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/81x53vi7VDL._AC_UL320_.jpg",
+            "name": "REMOKING Flower Building Toy",
+            "price": 100
+          }
+        ]
+  },
+  {
+    "id" : 4,
+    "Type":"Fitness",
+    "imgMain": "https://images-na.ssl-images-amazon.com/images/G/01/AmazonExports/Fuji/2021/September/DashboardCards/Fuji_Dash_Fitness_1X._SY304_CB639748186_.jpg",
+    "pageUrl": "../part page/fitness.html",
+    "products": [
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/61LykBMculL._AC_UL320_.jpg",
+            "name": "BTBSIGN LED Interval Timer",
+            "price": 54 
+          },
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/71sLQk7zgAL._AC_UL320_.jpg",
+            "name": "Houseables Speed Exercise Equipment",
+            "price": 63,
+            "urlpage":"../part page/productfitness.html",
+            "supname":"Houseables Speed Exercise Equipment, Work from Home Fitness, Various Sizes, Plastic, Metal, Football Gear, Soccer Training, Agility Ladder, Ab Workout, Football, Running, Baseball, Basketball, Abs",
+            "details":" <ul> <li> A COMPLETE AGILITY SET: This set comes with 1 speed chute, 1 agility speed ladder, 12 disc cones, 1 mesh drawstring carry bag, 1 jump rope, 1 resistance band,4 adjustable hurdles and 1 gym bag.</li> <li>We've made our tools to be flexible yet durable.</li> <li>They're easy to carry around where you need them, but strong to be used day in and day out in the midst of your harsh training.</li> <li>HELPS TRAINING IN OVERALL SPEED: No matter the sport, whatever kind of athlete you are, the entire set has everything you need to practice and train in aspects such as agility, coordination, balance, footwork, reaction speeds, and acceleration.</li> <li>Whether you're an athlete for football, baseball, tennis, or you're a trainer or a coach, this set has everything you need for a reactive player.</li> <li>THE ULTIMATE RESISTANCE PARACHUTE: Attach the resistance parachute to you for a run and experience constant drag, forcing you to run harder and condition yourself for both strength and speed. One of the best ways to increase the speed of an explosive dash.</li> </ul> ",
+            "imgRating":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/3_stars.svg/1024px-3_stars.svg.png",
+            "Rating": 3
+          },
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/714LJ8F-cCL._AC_UL320_.jpg",
+            "name": "Resistance Bands Set 14 pcs",
+            "price": 29
+          },
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/61Wi68zBV5L._AC_UL320_.jpg",
+            "name": "wolfyok Dumbbells Set",
+            "price": 89.99
+          },
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/919apjc+QWL._AC_UL320_.jpg",
+            "name": "Athletivi Exercise Dice For Workouts",
+            "price": 27.98
+          },
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/918072OSCNL._AC_UL320_.jpg",
+            "name": "BalanceFrom Puzzle Exercise",
+            "price": 23
+          },
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/61wo84VNkDS._AC_UL320_.jpg",
+            "name": "Odoland 4-in-1 AB Wheel Roller",
+            "price": 13.44
+          },
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/71ywuIv0ERS._AC_UL320_.jpg",
+            "name": "SELECTEO Resistance Bands Set 20pcs",
+            "price": 29.99
+          },
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/71DNxyxoioS._AC_UL320_.jpg",
+            "name": "GXMMAT Extra Large Exercise ",
+            "price": 100
+          },
+          {
+            "imgUrl": "https://m.media-amazon.com/images/I/71yTA5EyzaL._AC_UL320_.jpg",
+            "name": "FLYBIRD Flat Weight Bench ",
+            "price": 50
+          }
+        ]
+  }
+]
